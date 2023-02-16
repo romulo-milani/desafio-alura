@@ -21,6 +21,10 @@ header {
 
 }
 
+a {
+    color: black;
+}
+
 .header-logo {
     display: flex;
     align-items: center;
@@ -66,4 +70,33 @@ header {
     border: #8E2424 2px solid;
     border-radius: 4px;
     padding: 10px 18px;
+}
+
+/*Sobre nós section*/
+
+.quemsomos {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 410px;
+    text-align: center;
+}
+
+.quemsomosspan {
+    font-size: 16px;
+    font-weight: 600;
+    color: #8E2424;
+}
+
+.quemsomosh1 {
+    font-size: 48px;
+    font-weight: 600;
+    color: #101828;
+}
+
+.quemsomosp {
+    font-size: 20px;
+    font-weight: 400;
+    color: #667085;
 }
