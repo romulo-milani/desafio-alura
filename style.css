@@ -134,3 +134,41 @@ a {
     color:#667085;
     line-height: 1.5rem;
 }
+
+/*VAGAS SEXTION*/
+
+.vagassection {
+    text-align: center;
+    padding-top: 8rem;
+}
+
+.pvagas {
+    font-size: 14px;
+    font-weight: 500px;
+    color: #8E2424;
+    background-color: #8E24240D;
+    display: inline-block;
+    border: 7px #8E24240D solid;
+    border-radius: 16px;
+    margin: 0 0 1.5rem 0;
+}
+
+.h1vagas {
+    font-size: 36px;
+    font-weight: 600px;
+    color: #101828;
+    margin: 0 0 1.5rem 0;
+}
+
+.h3vagas {
+    font-size: 20px;
+    font-weight: 400px;
+    color: #667085;
+    margin: 0 0 5rem 0;
+}
+
+.imgvagas {
+    padding:  96px, 0px, 96px, 0px;
+    width: 70%;
+}
+
