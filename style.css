@@ -1,5 +1,8 @@
 body {
     font-family: inter;
+    height: 100vh;
+    width: 100%;
+    margin: 0;
 }
 
 a {
@@ -16,9 +19,8 @@ ul {
 header {
     display: flex;
     justify-content: space-around;
-    padding: 30px ;
-    gap: 40%;
-
+    padding: 2rem ;    
+    gap: 30rem;
 }
 
 a {
@@ -28,18 +30,18 @@ a {
 .header-logo {
     display: flex;
     align-items: center;
-    gap: 10px
+    gap: 1em
 }
 
 .header-container {
     display: flex;
-    gap: 120px
+    gap: 20em
 }
 
 .header-links {
     display: flex;
     align-items: center;
-    gap: 24px;
+    gap: 3rem;
     font-weight: 500px;
 }
 
@@ -61,7 +63,7 @@ a {
 .header-links-cadastro {
     display: flex;
     align-items: center;
-    gap: 24px
+    gap: 2rem;
 }
 
 .header-cadastrar {
@@ -99,4 +101,36 @@ a {
     font-size: 20px;
     font-weight: 400;
     color: #667085;
+}
+
+
+/*METRICAS SECTION*/
+
+.metricassection{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 5rem;
+    margin-top: 5rem;
+}
+
+.h1metricas {
+    font-weight: 600;
+    font-size: 60px;
+    color: #8E2424;
+    margin: 0;
+}
+
+.h3metricas {
+    font-weight: 500;
+    font-size: 18px;
+    color:#101828;
+}
+
+.pmetricas {
+    font-weight: 400;
+    font-size: 16px;
+    color:#667085;
+    line-height: 1.5rem;
 }
