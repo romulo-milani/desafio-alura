@@ -183,3 +183,44 @@ a {
     width: 70%;
 }
 
+
+/*SEÇÃO DE ANUNCIO DE VAGAS*/
+
+.anuncios {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.anuncios-container {
+    width: 45%;
+}
+
+.h3anuncio {
+    font-size: 20px;
+    font-weight: 500;
+    color: #101828;
+    margin-bottom: 40px;
+}
+
+.vaga {
+    border: 1px #66708538 solid;
+    border-radius: 16px; 
+    padding: 25px 20px;
+    margin-bottom: 25px;
+}
+
+.h4anuncio {
+    font-size: 18px;
+    font-weight: 500;
+    color: #101828;
+    margin: 0 0 35px 0;
+}
+
+.span-informacoes {
+    font-size: 16px;
+    font-weight: 500;
+    color: #667085;
+    
+}
+
