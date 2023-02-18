@@ -229,3 +229,38 @@ a {
     color: #667085;    
 }
 
+
+/*SEÇÃO TESTEMUNHO*/
+
+.testemunho-container {
+    text-align: center;
+    background-color: rgba(223, 13, 13, 0.05);
+    width: 80%;
+    margin: 32px auto 96px auto;
+    padding: 40px;
+    border-radius: 16px;
+}
+
+.titulo-secao {
+    color: #8E2424;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.h2-testemunho {
+    font-weight: 500;
+    font-size: 36px;
+    color: #101828;
+}
+
+.h3-testemunho {
+    font-weight: 500px;
+    font-size: 16px;
+    color: #101828;
+}
+
+.cargo-colaboradora {
+    font-weight: 400;
+    font-size: 14px;
+    color: #667085;
+}
