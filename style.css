@@ -82,6 +82,10 @@ a {
         margin-right: 0;
     }
 
+    .header-links {
+        gap: 0.5rem;
+    }
+
 
 }
 
@@ -220,7 +224,6 @@ a {
 .span-informacoes {
     font-size: 16px;
     font-weight: 500;
-    color: #667085;
-    
+    color: #667085;    
 }
 
